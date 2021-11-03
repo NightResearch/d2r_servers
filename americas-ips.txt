@@ -20,3 +20,5 @@ Collected IPs on Americas Region Servers
 35.235.79.208
 35.235.85.82
 35.235.112.178
+
+35.236.22.42
