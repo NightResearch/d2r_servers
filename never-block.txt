@@ -1,0 +1,9 @@
+These IPs should never be blocked as they are either logon servers or 
+some other utility server that is not an actual game server!
+
+137.221.105.152
+137.221.106.188
+
+24.105.29.76
+
+34.117.122.6
